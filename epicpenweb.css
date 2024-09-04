@@ -1097,11 +1097,14 @@ strong span {
 .footUl2 i{
   font-size: 1vw;
   color: #626262;
+  cursor: pointer;
 }
 
 
 
-
+.footUl2 i:hover{
+color: #33afe1;
+}
 
 
 /************************** FOOTER RESPONSIVE *********************************/
