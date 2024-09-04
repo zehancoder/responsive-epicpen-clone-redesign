@@ -1098,12 +1098,13 @@ strong span {
   font-size: 1vw;
   color: #626262;
   cursor: pointer;
+  border-radius: 3px;
 }
 
 
 
 .footUl2 i:hover{
-background-color: #33afe1;
+  background-color: #33afe1;
 }
 
 
